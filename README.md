@@ -1,2 +1,2 @@
 # back-to-work
-First foray back into the programming world
+First foray back into the programming world.  In 1995 I taught myself how to write websites using HTML while working at Washington University in St. Louis as an administrative Assistant.  By 1997 I was working for Mercantile Bank as a web developer.  There I developed intranet site for many of the departments, worked in LAN department using VBscript, and worked for the WAN department.  I then moved to Edward Jones programming websites in Unix then on to the Federal Reserve Bank using Cold Fusion and PHP.  
